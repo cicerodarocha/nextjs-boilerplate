@@ -6,5 +6,5 @@
   </iframe>
 </template>
 <script>
-  browse.loadURL('https://santacasa.com.br')
+  document.querySelector('#browse').loadURL('https://santacasa.com.br')
 </script>
