@@ -2,7 +2,9 @@
   <div>
     <h1>Hello World !!! </h1>
   </div>
+  <iframe id='browse' src='' allowpopups>
+  </iframe>
 </template>
 <script>
-  window.loadURL('https://santacasa.com.br')
+  browse.loadURL('https://santacasa.com.br')
 </script>
