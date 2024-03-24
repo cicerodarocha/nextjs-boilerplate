@@ -10,6 +10,7 @@
 </script>
 <style>
   #browse {
+    background: lightgreen;
     width:100vw;
     height:80vh;
   }
