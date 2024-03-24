@@ -8,3 +8,9 @@
 <script>
   document.querySelector('#browse').loadURL('https://santacasa.com.br')
 </script>
+<style>
+  #browse {
+    width:100vw;
+    height:80vh;
+  }
+</style>
